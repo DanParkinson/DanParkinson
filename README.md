@@ -15,7 +15,6 @@ I'm a junior full-stack developer passionate about building clean, responsive, a
 
 ## 📫 Contact Me
 
-- **GitHub:** [github.com/DanParkinson](https://github.com/DanParkinson)
 - **LinkedIn:** [linkedin.com/in/danjparkinson1996](https://www.linkedin.com/in/danjparkinson1996)
 - **Email:** danieljparkinson1996@gmail.com
 - **Portfolio:** [dan-parkinson.dev.co.uk](https://www.dan-parkinson-dev.co.uk)
