@@ -29,21 +29,15 @@ A full-stack productivity app that allows users to manage tasks by category. Fea
 
 [Live Demo](https://to-do-it-frontend-39b98d526a2a.herokuapp.com/) • [Frontend Code](https://github.com/DanParkinson/to-do-it-frontend) • [Backend Code](https://github.com/DanParkinson/to-do-it-drf-api)
 
----
-
 ### 🍽️ Elite  
 A full-stack restaurant reservation management system built with Django and React.
 
 [Live Demo](https://elite-reservations-cd461c878952.herokuapp.com/) • [Code](https://github.com/DanParkinson/project-4-elite)
 
----
-
 ### 🌐 Developer Portfolio  
 My personal portfolio site, built with React. Features animated UI elements, responsive layout, and a custom theme using SCSS and SVG icons.
 
 [Live Site](https://www.dan-parkinson-dev.co.uk/) • [Code](https://github.com/DanParkinson/portfolio)
-
----
 
 ### 🔔 Jingle Bites  
 A collaborative project from Code Institute’s December 2024 hackathon. I led backend development. Placed 3rd overall.
